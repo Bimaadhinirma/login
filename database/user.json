@@ -1,4 +1,8 @@
 [
-  "bima" : ["user" : "bima", "passwd" : "ye"],
+  "bima" : 
+  {
+  "user" : "bima", 
+  "passwd" : "ye"
+  },
   "tes"
 ]
